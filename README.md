@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrewion25
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on companies as a programmer
 - 📫 How to reach me andreasfon.1@gmail.com
 
 <!---
